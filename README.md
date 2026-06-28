@@ -41,7 +41,7 @@ An IoT-based smart waste monitoring system using ESP8266, Ultrasonic Sensor, Thi
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/your-linkedin-username
-- Email: your-email@example.com
+- LinkedIn:https://www.linkedin.com/in/muskan-jamadar-1b26a7342/
+- Email: muskanjamadar299@gmail.com
 
 ⭐ Thanks for visiting my profile!
