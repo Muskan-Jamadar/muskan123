@@ -15,22 +15,22 @@ I'm a 2026 graduate passionate about building applications using Java and explor
 
 ## 🛠️ Tech Stack
 
-**Languages:**
+**Languages:**  
 Java, SQL, JavaScript
 
-**Backend & Frameworks:**
+**Backend & Frameworks:**  
 Spring, Spring Boot
 
-**Frontend:**
+**Frontend:**  
 HTML, CSS
 
-**Database:**
+**Database:**  
 MySQL
 
-**DevOps & Cloud:**
+**DevOps & Cloud:**  
 AWS, Docker, Kubernetes, Jenkins, Linux
 
-**Tools:**
+**Tools:**  
 Git, GitHub, Postman
 
 ---
@@ -133,16 +133,6 @@ Focused on software development, Java programming, web technologies, databases, 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=
-    Muskan Jamadar&show_icons=true&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muskan-Jamadar&layout=compact&hide_border=true" height="170">
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -153,9 +143,9 @@ Focused on software development, Java programming, web technologies, databases, 
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn:https://www.linkedin.com/in/muskan-zakir-jamadar-1b26a7342/
-* 📧 Email: muskanjamadar299@gmail.com
-* 🐙 GitHub: https://github.com/Muskan-Jamadar
+* 💼 [LinkedIn](https://www.linkedin.com/in/muskan-zakir-jamadar-1b26a7342/)
+* 📧 [Email](mailto:muskanjamadar299@gmail.com)
+* 🐙 [GitHub](https://github.com/Muskan-Jamadar)
 
 ---
 
