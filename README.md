@@ -135,15 +135,19 @@ Focused on software development, Java programming, web technologies, databases, 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=
+    Muskan Jamadar&show_icons=true&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muskan-Jamadar&layout=compact&hide_border=true" height="170">
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Muskan-Jamadar&hide_border=true" height="170">
+</p>
 
 ---
 
