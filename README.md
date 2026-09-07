@@ -16,16 +16,16 @@ I'm a 2026 graduate passionate about building applications using Java and explor
 ## 🛠️ Tech Stack
 
 **Languages:**
-Java, Python, SQL, JavaScript
+Java, SQL, JavaScript
 
 **Backend & Frameworks:**
-Spring, Spring Boot, Flask
+Spring, Spring Boot
 
 **Frontend:**
-HTML, CSS, React
+HTML, CSS
 
 **Database:**
-MySQL, SQLite
+MySQL
 
 **DevOps & Cloud:**
 AWS, Docker, Kubernetes, Jenkins, Linux
@@ -151,7 +151,7 @@ Focused on software development, Java programming, web technologies, databases, 
 
 * 💼 LinkedIn:https://www.linkedin.com/in/muskan-zakir-jamadar-1b26a7342/
 * 📧 Email: muskanjamadar299@gmail.com
-* 🐙 GitHub: https://github.com/muskan21
+* 🐙 GitHub: https://github.com/Muskan-Jamadar
 
 ---
 
